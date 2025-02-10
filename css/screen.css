@@ -17,7 +17,8 @@ div{
 
 label{
     display:block;
-    margin: bottom 5px;
+    margin: bottom;
+    margin: 5px;
 }
 
 input, button{
